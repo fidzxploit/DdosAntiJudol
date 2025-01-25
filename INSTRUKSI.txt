@@ -1,0 +1,13 @@
+CARA PENGGUNAAN:
+
+#BAHAN:
+pkg install python
+pkg install golang
+pip install aiohttp
+pip install requests
+pip install colorama
+
+#PENYERANGAN:
+
+untuk alat yang menggunakan python cukup masukan saja situs target menggubakan http/https untuk lat yang menggunakan golang
+(go) caranya adalah masukan perintah ( go run attack.go --site https://site.com )
